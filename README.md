@@ -1,6 +1,5 @@
-Rule processed in this project contains user and address information. Can view those informations.
+Rule processed in this project contains user and address information. Can view, delete and edit those informations.
 
-Can delete and edit the infomrations.
 
 
 
