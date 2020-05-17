@@ -1,4 +1,4 @@
- -- WEB APPLICATION PROJECT --
+            * WEB APPLICATION PROJECT *
 
 * Rule processed in this project contains user and address information. 
 
