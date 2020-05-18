@@ -18,7 +18,7 @@
   
   - https://localhost:8080/users/user_userId/addresses
   
-  - https://localhost:8080/users/user_userId/addresses/addresses_addressId
+  - https://localhost:8080/users/user_userId/addresses/addresses_addressesId
  
 
 
