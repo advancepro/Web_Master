@@ -24,4 +24,4 @@
 * Spring security login routine
   - https://localhost:8080/users/login
 
-
+To view other informations -> https://github.com/advancepro/Web_Master/wiki
