@@ -8,6 +8,18 @@
 
 * And it informs with the error message during any display.
 
+* Handles GET, PUT, DELETE, POST mappings which helps to view and make changes on the information
+
+* with the help of HTTP request link can visualize the informations such:
+
+  - https://localhost:8080/users 
+  
+  - https://localhost:8080/users/user_userId 
+  
+  - https://localhost:8080/users/user_userId/addresses
+  
+  - https://localhost:8080/users/user_userId/addresses/addresses_addressId
+ 
 
 
 
