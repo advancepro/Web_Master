@@ -21,6 +21,7 @@
   - https://localhost:8080/users/user_userId/addresses/addresses_addressesId
  
 
-
+* Spring security login routine
+ - https://localhost:8080/users/login
 
 
