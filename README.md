@@ -14,11 +14,11 @@
 
   - https://localhost:8080/users 
   
-  - https://localhost:8080/users/user_userId 
+  - https://localhost:8080/users/userId 
   
-  - https://localhost:8080/users/user_userId/addresses
+  - https://localhost:8080/users/userId/addresses
   
-  - https://localhost:8080/users/user_userId/addresses/addresses_addressesId
+  - https://localhost:8080/users/userId/addresses/addressesId
  
 
 * Spring security login routine
